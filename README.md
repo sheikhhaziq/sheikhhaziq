@@ -1,6 +1,6 @@
 # 💫About Me :
-🌱 I’m currently learning more about Python.
-🛠️ Completed Flutter.
+🌱 I’m currently learning more about Python.<br>
+🛠️ Completed Flutter.<br>
 ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 ## 🌐Socials
