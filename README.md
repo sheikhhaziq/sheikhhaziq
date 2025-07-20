@@ -25,9 +25,10 @@ A secure password manager created in Flutter. It saves passwords locally and lev
 
 <!--
 Add your social links here if you'd like!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](url)
 -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-green)](https://sheikhhaziq.netlify.app/)
+
 
 ---
 
